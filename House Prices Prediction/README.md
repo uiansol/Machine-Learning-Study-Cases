@@ -3,8 +3,8 @@ ___
 
 ### Techinics
 
-* This work uses linear regression with multivariable parâmeters.
+* Linear regression with multivariable parameters
 
 ### Tools
 
-* Turicreate was used as the framework for data manipulation and modeling.
+* Turicreate
