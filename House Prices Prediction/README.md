@@ -1,4 +1,4 @@
-## House prices predictions
+## House Prices Predictions
 ___
 
 ### Techinics
