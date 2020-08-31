@@ -1,7 +1,7 @@
 ## House Prices Predictions
 ___
 
-### Techinics
+### Techniques
 
 * Linear regression with multivariable parameters
 

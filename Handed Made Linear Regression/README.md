@@ -1,7 +1,7 @@
 ## Handed Made Linear Regression
 ___
 
-### Techinics
+### Techniques
 
 * Linear Regression
 * Prices Prediction

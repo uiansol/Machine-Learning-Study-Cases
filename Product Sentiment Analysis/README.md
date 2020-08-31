@@ -1,7 +1,7 @@
 ## Product Sentiment Analysis
 ___
 
-### Techinics
+### Techniques
 
 * Classification
 * Natural language processing

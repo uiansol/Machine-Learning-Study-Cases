@@ -1,7 +1,7 @@
 ## Document Similarity
 ___
 
-### Techinics
+### Techniques
 
 * Normalization with TF-IDF
 * Clustering

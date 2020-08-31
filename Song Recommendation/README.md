@@ -1,7 +1,7 @@
 ## Song Recommendation
 ___
 
-### Techinics
+### Techniques
 
 * Item similarity
 * Popularity

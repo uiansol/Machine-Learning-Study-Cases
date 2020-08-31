@@ -1,7 +1,7 @@
 ## Image Classification
 ___
 
-### Techinics
+### Techniques
 
 * Classification
 * Item similarity
